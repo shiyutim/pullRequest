@@ -8,7 +8,14 @@
 
 ## 使用
 
-**首先需要在`setting.js`里面配置下载文件名字和 url**。
+拉取本项目：
+
+```
+- git clone https://github.com/shiyutim/pullRequest.git
+- npm install
+```
+
+**拉取本项目后，首先需要在`setting.js`里面配置下载文件名字和 url**。（需要电脑安装`Node.js`，如果没有安装，请先安装`Node.js`）
 
 Example :
 
